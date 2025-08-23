@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 23.08.2025 в 19:54:56 MSK
+# Last update: 23.08.2025 в 20:09:03 MSK
 
 # Repos:
 
@@ -176,6 +176,8 @@ others
 [Тренировочное синхронное Flow на Kotlin](https://github.com/avmiyyLab/SynchronousFlowKt)
 
 [Программа для считывания всех репозиториев и обновления README.md файла](https://github.com/avmiyyLab/update-repos-kotlin)
+
+[Файлы для изменения имени в коммитах по дереву репозитория](https://github.com/avmiyyLab/updating-name-in-commits)
 
 [Набор файлов для vscode для работы с С++ на Linux](https://github.com/avmiyyLab/vscode-for-cpp-linux)
 
