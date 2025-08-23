@@ -1,4 +1,4 @@
-# by [avmiyy](https://github.com/vafeen) ![Profile Views](https://komarev.com/ghpvc/?username=avmiyyLab&label=Profile%20views&color=0e75b6&style=flat)
+# by [avmiyy](https://github.com/avmiyy) ![Profile Views](https://komarev.com/ghpvc/?username=avmiyyLab&label=Profile%20views&color=0e75b6&style=flat)
 
 Это собрание проектов, лабораторных и прочих работ, в которые я вложил душу и время, а время — самая ценная валюта, которая у нас есть. Я верю, что это поможет не одному человеку сэкономить время и силы, а возможно, и позволит разобраться в чем-то. Добро пожаловать!
 
@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 23.08.2025 в 16:37:20 MSK
+# Last update: 23.08.2025 в 16:41:44 MSK
 
 # Repos:
 
