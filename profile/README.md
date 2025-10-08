@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 07.10.2025 в 04:50:20 MSK
+# Last update: 08.10.2025 в 04:50:39 MSK
 
 # Repos:
 
@@ -128,6 +128,10 @@ Semester: 6
 [Объектно-ориентированный анализ и проектирование 6 семестр](https://github.com/avmiyyLab/object-oriented-analysis-and-design_6-semester)
 
 [Отчет по летней практике 6 семестр](https://github.com/avmiyyLab/summer-practice_6-semester)
+
+Semester: 7
+
+[Информационная безопасность 7 семестр](https://github.com/avmiyyLab/information-security_7-semester)
 
 Semester: 1mag
 
