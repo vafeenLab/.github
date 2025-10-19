@@ -2,7 +2,7 @@ name: Update Repositories List
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # ежедневно в 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -14,59 +14,41 @@ jobs:
 
     steps:
       - name: Checkout current repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Set up JDK 17
-        uses: actions/setup-java@v3
-        with:
-          java-version: '17'
-          distribution: 'temurin'
-
-      - name: Get latest release tag
-        id: get-release
+      - name: Get latest release asset (JAR)
         run: |
-          LATEST_TAG=$(curl -s https://api.github.com/repos/vafeenLab/update-repos-kotlin/releases/latest | jq -r '.tag_name')
-          echo "Latest tag: $LATEST_TAG"
-          echo "tag_name=$LATEST_TAG" >> $GITHUB_OUTPUT
-
-      - name: Checkout update-repos-kotlin
-        uses: actions/checkout@v3
-        with:
-          repository: 'avmiyyLab/update-repos-kotlin'
-          ref: ${{ steps.get-release.outputs.tag_name }}
-          path: 'update-repos-kotlin'
-
-      - name: Build the project with Gradle
-        working-directory: ./update-repos-kotlin
-        run: |
-          # Проверяем наличие gradlew
-          if [ ! -f "./gradlew" ]; then
-            echo "::error::gradlew not found!"
-            exit 1
-          fi
+          RESPONSE=$(curl -s https://api.github.com/repos/vafeenLab/update-repos-kotlin/releases/latest)
           
-          chmod +x gradlew
-          ./gradlew build --no-daemon
+          # Извлекаем имя и URL первого JAR-файла из ассетов
+          JAR_NAME=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .name' | head -n1)
+          JAR_URL=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .browser_download_url' | head -n1)
 
-      - name: Find and copy JAR file
-        run: |
-          JAR_PATH=$(find update-repos-kotlin/build/libs -name "*.jar" ! -name "*-sources.jar" ! -name "*-javadoc.jar" | head -n 1)
-          if [[ -z "$JAR_PATH" ]]; then
-            echo "::error::No JAR file found in build/libs!"
+          if [ -z "$JAR_NAME" ] || [ "$JAR_NAME" = "null" ]; then
+            echo "::error::No JAR file found in the latest release"
             exit 1
           fi
-          cp "$JAR_PATH" ./update-repos.jar
-          echo "JAR copied to: $(pwd)/update-repos.jar"
+
+          echo "Found JAR: $JAR_NAME"
+          echo "Download URL: $JAR_URL"
+          echo "jar_name=$JAR_NAME" >> $GITHUB_OUTPUT
+          echo "jar_url=$JAR_URL" >> $GITHUB_OUTPUT
+
+      - name: Download JAR from release
+        run: |
+          curl -L -o "${{ steps.get-jar-info.outputs.jar_name }}" "${{ steps.get-jar-info.outputs.jar_url }}"
+          ls -l "${{ steps.get-jar-info.outputs.jar_name }}"
+          echo "✅ JAR downloaded successfully"
 
       - name: Run the updater
         run: |
-          java -jar ./update-repos.jar
+          java -jar "${{ steps.get-jar-info.outputs.jar_name }}" vafeenLab
 
-      - name: Check for changes
+      - name: Check for changes and push if needed
         run: |
-          if git diff --quiet; 
-            then echo "No changes detected. Skipping commit and push."
-          else 
+          if git diff --quiet -- profile/README.md; then
+            echo "No changes detected. Skipping commit."
+          else
             git config --local user.name "GitHub Actions Bot"
             git config --local user.email "actions@github.com"
             git add profile/README.md
