@@ -17,22 +17,24 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Get latest release asset (JAR)
+        id: get-jar-info
         run: |
           RESPONSE=$(curl -s https://api.github.com/repos/vafeenLab/update-repos-kotlin/releases/latest)
           
-          # Извлекаем имя и URL первого JAR-файла из ассетов
-          JAR_NAME=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .name' | head -n1)
-          JAR_URL=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .browser_download_url' | head -n1)
+          JAR_NAME=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .name' | head -n1 | tr -d '\r\n ')
+          JAR_URL=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .browser_download_url' | head -n1 | tr -d '\r\n ')
 
           if [ -z "$JAR_NAME" ] || [ "$JAR_NAME" = "null" ]; then
             echo "::error::No JAR file found in the latest release"
             exit 1
           fi
 
-          echo "Found JAR: $JAR_NAME"
-          echo "Download URL: $JAR_URL"
-          echo "jar_name=$JAR_NAME" >> $GITHUB_OUTPUT
-          echo "jar_url=$JAR_URL" >> $GITHUB_OUTPUT
+          echo "Found JAR: [$JAR_NAME]"
+          echo "Download URL: [$JAR_URL]"
+
+          # Экспортируем БЕЗ лишних пробелов и с чистыми строками
+          echo "jar_name=${JAR_NAME}" >> "$GITHUB_OUTPUT"
+          echo "jar_url=${JAR_URL}" >> "$GITHUB_OUTPUT"
 
       - name: Download JAR from release
         run: |
