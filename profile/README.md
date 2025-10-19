@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 19.10.2025 в 23:29:10 MSK
+# Last update: 19.10.2025 в 23:43:40 MSK
 
 # Repos:
 
@@ -179,7 +179,7 @@ others
 
 [Тренировочное синхронное Flow на Kotlin](https://github.com/vafeenLab/SynchronousFlowKt)
 
-[Программа для считывания всех репозиториев и обновления README.md файла](https://github.com/vafeenLab/update-repos-kotlin)
+[📚 Update Repos — автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenLab/update-repos-kotlin)
 
 [Файлы для изменения имени в коммитах по дереву репозитория](https://github.com/vafeenLab/updating-name-in-commits)
 
