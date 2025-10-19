@@ -25,7 +25,7 @@ jobs:
       - name: Get latest release tag
         id: get-release
         run: |
-          LATEST_TAG=$(curl -s https://api.github.com/repos/avmiyyLab/update-repos-kotlin/releases/latest | jq -r '.tag_name')
+          LATEST_TAG=$(curl -s https://api.github.com/repos/vafeenLab/update-repos-kotlin/releases/latest | jq -r '.tag_name')
           echo "Latest tag: $LATEST_TAG"
           echo "tag_name=$LATEST_TAG" >> $GITHUB_OUTPUT
 
