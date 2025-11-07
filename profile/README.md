@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 07.11.2025 в 04:57:41 MSK
+# Last update: 07.11.2025 в 17:39:11 MSK
 
 # Repos:
 
@@ -131,6 +131,8 @@ Semester: 6
 
 Semester: 7
 
+[Функциональное программирование 7 семестр](https://github.com/vafeenLab/functional-programming_7-semester)
+
 [Информационная безопасность 7 семестр](https://github.com/vafeenLab/information-security_7-semester)
 
 Semester: 1mag
@@ -144,6 +146,8 @@ others
 [Bash-скрипт компиляции С++ файлов](https://github.com/vafeenLab/bash-cpp-compiler)
 
 [Набор cmd-файлов для добавления в контекстное меню проводника такие программы, как Git, CMD, Intellij IDEA, Android Studio, VSCode](https://github.com/vafeenLab/cmd-install)
+
+[C++ development in Devcontainer](https://github.com/vafeenLab/cpp-devcontainer)
 
 [Консольная программа на C++ для создания N .txt файлов в текущей папке](https://github.com/vafeenLab/cpp-file-creator)
 
@@ -172,6 +176,8 @@ others
 [Niapoll's phrases as the meaning of life app](https://github.com/vafeenLab/niapolls-phrases-as-the-meaning-of-life)
 
 [Программа для создания спиральной матрицы N*N на Python](https://github.com/vafeenLab/py-spiral)
+
+[Python в devcontainer VSCode](https://github.com/vafeenLab/python-devcontainer)
 
 [Проект для конвертации PDF<->DOCX и соединения PDF файлов](https://github.com/vafeenLab/python-pdf-helpers)
 
