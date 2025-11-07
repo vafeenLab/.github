@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 07.11.2025 в 17:59:28 MSK
+# Last update: 08.11.2025 в 02:30:01 MSK
 
 # Repos:
 
@@ -146,6 +146,8 @@ others
 [Bash-скрипт компиляции С++ файлов](https://github.com/vafeenLab/bash-cpp-compiler)
 
 [DevContainer C++ development](https://github.com/vafeenLab/cpp-devcontainer)
+
+[DevContainer Haskell development](https://github.com/vafeenLab/haskell-devcontainer)
 
 [DevContainer Python development](https://github.com/vafeenLab/python-devcontainer)
 
