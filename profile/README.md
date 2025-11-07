@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 07.11.2025 в 17:57:41 MSK
+# Last update: 07.11.2025 в 17:59:28 MSK
 
 # Repos:
 
@@ -159,7 +159,7 @@ others
 
 [Report about sha-256 on Google I/O 2025 conference](https://github.com/vafeenLab/SHA256-report-for-Google-IO-2025)
 
-[Update Repos — автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenLab/update-repos-kotlin)
+[Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenLab/update-repos-kotlin)
 
 [Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК](https://github.com/vafeenLab/cpp-virus-filecreator)
 
