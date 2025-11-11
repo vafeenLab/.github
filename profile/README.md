@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 11.11.2025 в 04:59:55 MSK
+# Last update: 11.11.2025 в 05:14:45 MSK
 
 # Repos:
 
@@ -150,6 +150,8 @@ others
 [DevContainer Haskell development](https://github.com/vafeenLab/haskell-devcontainer)
 
 [DevContainer Python development](https://github.com/vafeenLab/python-devcontainer)
+
+[Git config for Windows](https://github.com/vafeenLab/gitconfig)
 
 [Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++)](https://github.com/vafeenLab/cpp-py-gitpusher)
 
