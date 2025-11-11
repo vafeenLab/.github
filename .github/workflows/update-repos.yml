@@ -51,8 +51,11 @@ jobs:
           if git diff --quiet -- profile/README.md; then
             echo "No changes detected. Skipping commit."
           else
-            git config --local user.name "Aleksei Nemtsev"
-            git config --local user.email "shimanoee@yandex.ru"
+            # git config --local user.name "Aleksei Nemtsev"
+            # git config --local user.email "shimanoee@yandex.ru"
+            # git config --local user.name "Yaroslav Shavrov"
+            # git config --local user.email "iaroslav.shavrov@yandex.ru"
+            
             git add profile/README.md
             git commit -m "Update repository list with header"
             git push
