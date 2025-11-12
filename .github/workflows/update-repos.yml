@@ -44,7 +44,7 @@ jobs:
 
       - name: Run the updater
         run: |
-          java -jar "${{ steps.get-jar-info.outputs.jar_name }}" -ac vafeenLab
+          java -jar "${{ steps.get-jar-info.outputs.jar_name }}" -ac vafeenHub
 
       - name: Check for changes and push if needed
         run: |
