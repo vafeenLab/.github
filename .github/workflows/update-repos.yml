@@ -19,7 +19,7 @@ jobs:
       - name: Get latest release asset (JAR)
         id: get-jar-info
         run: |
-          RESPONSE=$(curl -s https://api.github.com/repos/vafeenHub/update-repos-kotlin/releases/latest)
+          RESPONSE=$(curl -L https://api.github.com/repos/vafeenHub/update-repos-kotlin/releases/latest)
           
           JAR_NAME=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .name' | head -n1 | tr -d '\r\n ')
           JAR_URL=$(echo "$RESPONSE" | jq -r '.assets[] | select(.name | endswith(".jar")) | .browser_download_url' | head -n1 | tr -d '\r\n ')
