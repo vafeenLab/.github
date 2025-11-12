@@ -35,7 +35,7 @@
 </details>
 
 
-# Last update: 11.11.2025 в 05:14:45 MSK
+# Last update: 12.11.2025 в 07:53:31 MSK
 
 # Repos:
 
@@ -150,6 +150,8 @@ others
 [DevContainer Haskell development](https://github.com/vafeenLab/haskell-devcontainer)
 
 [DevContainer Python development](https://github.com/vafeenLab/python-devcontainer)
+
+[DevContainer Ubuntu as replacement for WSL](https://github.com/vafeenLab/ubuntu-devcontainer)
 
 [Git config for Windows](https://github.com/vafeenLab/gitconfig)
 
