@@ -34,7 +34,7 @@
 
 
 
-# Last update: 15.11.2025 в 14:36:11 MSK
+# Last update: 15.11.2025 в 18:10:37 MSK
 
 # Repos:
 
@@ -144,8 +144,6 @@ others
 
 [Android App with Firebase cloud messaging and backend on Kotlin example](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example)
 
-[Bash-скрипт компиляции С++ файлов](https://github.com/vafeenHub/bash-cpp-compiler)
-
 [DevContainer C++ development](https://github.com/vafeenHub/cpp-devcontainer)
 
 [DevContainer Haskell development](https://github.com/vafeenHub/haskell-devcontainer)
@@ -201,6 +199,8 @@ others
 [Система регистрации пользователей на С++ с профилем админа](https://github.com/vafeenHub/cpp-registratrion-system)
 
 [Тренировочное синхронное Flow на Kotlin](https://github.com/vafeenHub/SynchronousFlowKt)
+
+[Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др.](https://github.com/vafeenHub/cpp-windows-tools)
 
 [Файлы для изменения имени в коммитах по дереву репозитория](https://github.com/vafeenHub/updating-name-in-commits)
 
