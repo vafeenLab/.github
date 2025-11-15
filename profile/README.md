@@ -34,17 +34,17 @@
 
 
 
-# Last update: 15.11.2025 в 18:10:37 MSK
+[Updated 15.11.2025 в 21:05:30 MSK]
 
-# Repos:
-
-Semester: 2
+<details>
+<summary>Semester: 2</summary>
 
 [Информатика и программирование 2 семестр: Курсовая](https://github.com/vafeenHub/computer-science-and-programming_2-semester)
 
 [Пакеты прикладных программ 2 семестр](https://github.com/vafeenHub/application-software-packages_2-semester)
 
-Semester: 3
+</details><details>
+<summary>Semester: 3</summary>
 
 [Объектно-ориентированное программирование 3 семестр](https://github.com/vafeenHub/OOP_3-semester)
 
@@ -52,7 +52,8 @@ Semester: 3
 
 [Экономика 3 семестр](https://github.com/vafeenHub/economy-presentation_3-semester)
 
-Semester: 4
+</details><details>
+<summary>Semester: 4</summary>
 
 [Reading log по Английскому 4 семестр](https://github.com/vafeenHub/english-reading-log_4-semester)
 
@@ -66,7 +67,8 @@ Semester: 4
 
 [Структуры данных и алгоритмы 3 и 4 семестр](https://github.com/vafeenHub/data-structures-and-algorithms_3-4-semester)
 
-Semester: 5
+</details><details>
+<summary>Semester: 5</summary>
 
 [Архитектуры мобильных систем 5 семестр](https://github.com/vafeenHub/mobile-device-architectures_5-semester)
 
@@ -86,7 +88,8 @@ Semester: 5
 
 [Численные методы 5 семестр](https://github.com/vafeenHub/numerical-methods_5-semester)
 
-Semester: 6
+</details><details>
+<summary>Semester: 6</summary>
 
 [Java 6 семестр](https://github.com/vafeenHub/java_6-semester)
 
@@ -128,7 +131,8 @@ Semester: 6
 
 [Численные методы 6 семестр](https://github.com/vafeenHub/numerical-methods_6-semester)
 
-Semester: 7
+</details><details>
+<summary>Semester: 7</summary>
 
 [Информационная безопасность 7 семестр](https://github.com/vafeenHub/information-security_7-semester)
 
@@ -136,11 +140,13 @@ Semester: 7
 
 [Функциональное программирование 7 семестр](https://github.com/vafeenHub/functional-programming_7-semester)
 
-Semester: 1mag
+</details><details>
+<summary>Semester: 1mag</summary>
 
 [test 1mag semester](https://github.com/vafeenHub/test_1mag-semester)
 
-others
+</details><details>
+<summary>others</summary>
 
 [Android App with Firebase cloud messaging and backend on Kotlin example](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example)
 
@@ -166,7 +172,7 @@ others
 
 [Report about sha-256 on Google I/O 2025 conference](https://github.com/vafeenHub/SHA256-report-for-Google-IO-2025)
 
-[Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos-kotlin)
+[Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
 [Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК](https://github.com/vafeenHub/cpp-virus-filecreator)
 
@@ -200,7 +206,8 @@ others
 
 [Тренировочное синхронное Flow на Kotlin](https://github.com/vafeenHub/SynchronousFlowKt)
 
-[Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др.](https://github.com/vafeenHub/cpp-windows-tools)
+[Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др](https://github.com/vafeenHub/cpp-windows-tools)
 
 [Файлы для изменения имени в коммитах по дереву репозитория](https://github.com/vafeenHub/updating-name-in-commits)
 
+</details>
