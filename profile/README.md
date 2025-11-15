@@ -34,7 +34,7 @@
 
 
 
-# Last update: 15.11.2025 в 04:55:14 MSK
+# Last update: 15.11.2025 в 14:36:11 MSK
 
 # Repos:
 
@@ -131,6 +131,8 @@ Semester: 6
 Semester: 7
 
 [Информационная безопасность 7 семестр](https://github.com/vafeenHub/information-security_7-semester)
+
+[Реляционные системы управления базами данных 7 семестр](https://github.com/vafeenHub/relational-databases_7-semester)
 
 [Функциональное программирование 7 семестр](https://github.com/vafeenHub/functional-programming_7-semester)
 
