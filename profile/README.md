@@ -34,7 +34,7 @@
 
 
 
-[Updated 17.11.2025 в 05:00:41 MSK]
+[Updated 17.11.2025 в 20:52:24 MSK]
 
 <details>
 <summary>Semester: 2</summary>
@@ -167,6 +167,8 @@
 [Learn2Invest-2.0-chery](https://github.com/vafeenHub/learn2Invest-2.0-chery)
 
 [Microsoft-Office-LTS-Professional-Plus-2021](https://github.com/vafeenHub/Microsoft-Office-LTS-Professional-Plus-2021)
+
+[Moscow-Travel-Guide](https://github.com/vafeenHub/Moscow-Travel-Guide)
 
 [Niapoll's phrases as the meaning of life app](https://github.com/vafeenHub/niapolls-phrases-as-the-meaning-of-life)
 
