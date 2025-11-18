@@ -34,7 +34,7 @@
 
 
 
-[Updated 18.11.2025 в 04:59:02 MSK]
+>Updated *18.11.2025* в *14:19:40* MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -43,7 +43,9 @@
 
 [Пакеты прикладных программ 2 семестр](https://github.com/vafeenHub/application-software-packages_2-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 3</summary>
 
 [Объектно-ориентированное программирование 3 семестр](https://github.com/vafeenHub/OOP_3-semester)
@@ -52,7 +54,9 @@
 
 [Экономика 3 семестр](https://github.com/vafeenHub/economy-presentation_3-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 4</summary>
 
 [Reading log по Английскому 4 семестр](https://github.com/vafeenHub/english-reading-log_4-semester)
@@ -67,7 +71,9 @@
 
 [Структуры данных и алгоритмы 3 и 4 семестр](https://github.com/vafeenHub/data-structures-and-algorithms_3-4-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 5</summary>
 
 [Архитектуры мобильных систем 5 семестр](https://github.com/vafeenHub/mobile-device-architectures_5-semester)
@@ -88,7 +94,9 @@
 
 [Численные методы 5 семестр](https://github.com/vafeenHub/numerical-methods_5-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 6</summary>
 
 [Java 6 семестр](https://github.com/vafeenHub/java_6-semester)
@@ -131,7 +139,9 @@
 
 [Численные методы 6 семестр](https://github.com/vafeenHub/numerical-methods_6-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 7</summary>
 
 [Информационная безопасность 7 семестр](https://github.com/vafeenHub/information-security_7-semester)
@@ -140,12 +150,16 @@
 
 [Функциональное программирование 7 семестр](https://github.com/vafeenHub/functional-programming_7-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>Semester: 1mag</summary>
 
 [test 1mag semester](https://github.com/vafeenHub/test_1mag-semester)
 
-</details><details>
+</details>
+
+<details>
 <summary>others</summary>
 
 [Android App with Firebase cloud messaging and backend on Kotlin example](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example)
@@ -213,3 +227,4 @@
 [Файлы для изменения имени в коммитах по дереву репозитория](https://github.com/vafeenHub/updating-name-in-commits)
 
 </details>
+
