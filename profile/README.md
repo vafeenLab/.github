@@ -34,7 +34,7 @@
 
 
 
->Updated **22.11.2025** в **04:53:59** MSK
+>Updated **23.11.2025** в **05:18:52** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -191,6 +191,8 @@
 [Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
 [Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК](https://github.com/vafeenHub/cpp-virus-filecreator)
+
+[Коллекция Github workflows](https://github.com/vafeenHub/workflows)
 
 [Консольная программа на C++ для создания N .txt файлов в текущей папке](https://github.com/vafeenHub/cpp-file-creator)
 
