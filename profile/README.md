@@ -34,7 +34,7 @@
 
 
 
->Updated **01.12.2025** в **05:25:57** MSK
+>Updated **01.12.2025** в **18:35:49** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -145,6 +145,8 @@
 <summary>Semester: 7</summary>
 
 [Информационная безопасность 7 семестр](https://github.com/vafeenHub/information-security_7-semester)
+
+[Методы компиляции 7 семестр](https://github.com/vafeenHub/compilation-methods_7-semester)
 
 [Реляционные системы управления базами данных 7 семестр](https://github.com/vafeenHub/relational-databases_7-semester)
 
