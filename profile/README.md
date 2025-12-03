@@ -34,7 +34,7 @@
 
 
 
->Updated **03.12.2025** в **05:02:05** MSK
+>Updated **03.12.2025** в **16:49:39** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -189,6 +189,8 @@
 [Niapoll's phrases as the meaning of life app](https://github.com/vafeenHub/niapolls-phrases-as-the-meaning-of-life)
 
 [Report about sha-256 on Google I/O 2025 conference](https://github.com/vafeenHub/SHA256-report-for-Google-IO-2025)
+
+[faq](https://github.com/vafeenHub/faq)
 
 [Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
