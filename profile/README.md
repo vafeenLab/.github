@@ -34,7 +34,7 @@
 
 
 
->Updated **08.12.2025** в **05:04:04** MSK
+>Updated **09.12.2025** в **05:59:20** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -176,6 +176,8 @@
 
 [DevContainer Ubuntu as replacement for WSL](https://github.com/vafeenHub/ubuntu-devcontainer)
 
+[FAQ](https://github.com/vafeenHub/FAQ)
+
 [Git config for Windows](https://github.com/vafeenHub/gitconfig)
 
 [Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++)](https://github.com/vafeenHub/cpp-py-gitpusher)
@@ -189,8 +191,6 @@
 [Niapoll's phrases as the meaning of life app](https://github.com/vafeenHub/niapolls-phrases-as-the-meaning-of-life)
 
 [Report about sha-256 on Google I/O 2025 conference](https://github.com/vafeenHub/SHA256-report-for-Google-IO-2025)
-
-[faq](https://github.com/vafeenHub/faq)
 
 [Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
