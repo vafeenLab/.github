@@ -34,7 +34,7 @@
 
 
 
->Updated **09.12.2025** в **05:59:20** MSK
+>Updated **10.12.2025** в **05:05:06** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -182,6 +182,8 @@
 
 [Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++)](https://github.com/vafeenHub/cpp-py-gitpusher)
 
+[Github workflows](https://github.com/vafeenHub/workflows)
+
 [Learn2Invest-2.0-chery](https://github.com/vafeenHub/learn2Invest-2.0-chery)
 
 [Microsoft-Office-LTS-Professional-Plus-2021](https://github.com/vafeenHub/Microsoft-Office-LTS-Professional-Plus-2021)
@@ -195,8 +197,6 @@
 [Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
 [Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК](https://github.com/vafeenHub/cpp-virus-filecreator)
-
-[Коллекция Github workflows](https://github.com/vafeenHub/workflows)
 
 [Консольная программа на C++ для создания N .txt файлов в текущей папке](https://github.com/vafeenHub/cpp-file-creator)
 
