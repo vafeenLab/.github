@@ -1,4 +1,4 @@
-# by [vafeen](https://github.com/vafeen) ![Profile Views](https://komarev.com/ghpvc/?username=vafeenLab&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vafeenLab&label=Profile%20views&color=0e75b6&style=flat)
 
 <details>
 <summary><b>⚠️ Отказ от ответственности [RU] ⚠️</b></summary>
@@ -31,4 +31,5 @@
 
 > Последнее обновление: 09.06.2025
 </details>
+
 
