@@ -1,4 +1,4 @@
-# by [vafeen](https://github.com/vafeen) ![Profile Views](https://komarev.com/ghpvc/?username=vafeenLab&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vafeenLab&label=Profile%20views&color=0e75b6&style=flat)
 
 <details>
 <summary><b>⚠️ Отказ от ответственности [RU] ⚠️</b></summary>
@@ -34,7 +34,8 @@
 
 
 
->Updated **11.12.2025** в **05:06:46** MSK
+
+>Updated **11.12.2025** в **09:16:29** MSK
 
 <details>
 <summary>Semester: 2</summary>
