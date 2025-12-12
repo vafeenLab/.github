@@ -35,7 +35,7 @@
 
 
 
->Updated **12.12.2025** в **21:28:52** MSK
+>Updated **12.12.2025** в **21:33:41** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -102,6 +102,8 @@
 
 [Java 6 семестр](https://github.com/vafeenHub/java_6-semester)
 
+[Scientific activities in VSU 6 7 8 semesters](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
+
 [Демонстрация курсовой работы 6 семестр](https://github.com/vafeenHub/demo-coursework_6-semester)
 
 [Компьютерная графика 6 семестр: 2d Самолет с текстурами](https://github.com/vafeenHub/computer-graphics-plane_6-semester)
@@ -130,8 +132,6 @@
 
 [Основы облачных вычислений 6 семестр](https://github.com/vafeenHub/cloud-computing-basics_6-semester)
 
-[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
-
 [Отчет по летней практике 6 семестр](https://github.com/vafeenHub/summer-practice_6-semester)
 
 [Программирование встроенных систем 6 семестр](https://github.com/vafeenHub/embedded-System-programming_6-semester)
@@ -145,11 +145,11 @@
 <details>
 <summary>Semester: 7</summary>
 
+[Scientific activities in VSU 6 7 8 semesters](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
+
 [Информационная безопасность 7 семестр](https://github.com/vafeenHub/information-security_7-semester)
 
 [Методы компиляции 7 семестр](https://github.com/vafeenHub/compilation-methods_7-semester)
-
-[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
 
 [Реляционные системы управления базами данных 7 семестр](https://github.com/vafeenHub/relational-databases_7-semester)
 
@@ -160,7 +160,7 @@
 <details>
 <summary>Semester: 8</summary>
 
-[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
+[Scientific activities in VSU 6 7 8 semesters](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
 
 </details>
 
