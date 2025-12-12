@@ -35,7 +35,7 @@
 
 
 
->Updated **12.12.2025** в **05:06:27** MSK
+>Updated **12.12.2025** в **21:28:52** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -130,7 +130,7 @@
 
 [Основы облачных вычислений 6 семестр](https://github.com/vafeenHub/cloud-computing-basics_6-semester)
 
-[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/coursework-report_6-semester)
+[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
 
 [Отчет по летней практике 6 семестр](https://github.com/vafeenHub/summer-practice_6-semester)
 
@@ -149,9 +149,18 @@
 
 [Методы компиляции 7 семестр](https://github.com/vafeenHub/compilation-methods_7-semester)
 
+[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
+
 [Реляционные системы управления базами данных 7 семестр](https://github.com/vafeenHub/relational-databases_7-semester)
 
 [Функциональное программирование 7 семестр](https://github.com/vafeenHub/functional-programming_7-semester)
+
+</details>
+
+<details>
+<summary>Semester: 8</summary>
+
+[Отчет по курсовой работе 6 семестр](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester)
 
 </details>
 
@@ -195,6 +204,8 @@
 
 [Report about sha-256 on Google I/O 2025 conference](https://github.com/vafeenHub/SHA256-report-for-Google-IO-2025)
 
+[StudyMeet MVP Android app with webview](https://github.com/vafeenHub/StudyMeetWebViewMVP)
+
 [Автоматическое обновление списка репозиториев в профиле организации](https://github.com/vafeenHub/update-repos)
 
 [Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК](https://github.com/vafeenHub/cpp-virus-filecreator)
@@ -213,7 +224,7 @@
 
 [Набор файлов для vscode для работы с С++ на Windows](https://github.com/vafeenHub/vscode-for-cpp-windows)
 
-[Научно-исследовательская работа](https://github.com/vafeenHub/VSU-scientific-activities)
+[Научно-исследовательская работа](https://github.com/vafeenHub/VSU-scientific-activities-template)
 
 [Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление)](https://github.com/vafeenHub/cpp-sandbox-matrix-calculator)
 
