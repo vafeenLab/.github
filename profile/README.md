@@ -35,7 +35,7 @@
 
 
 
->Updated **13.12.2025** в **04:59:26** MSK
+>Updated **14.12.2025** в **05:18:48** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -175,6 +175,8 @@
 <summary>others</summary>
 
 [Android App with Firebase cloud messaging and backend on Kotlin example](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example)
+
+[Articles](https://github.com/vafeenHub/articles-but-not-from-Arctic)
 
 [DevContainer C++ development](https://github.com/vafeenHub/cpp-devcontainer)
 
