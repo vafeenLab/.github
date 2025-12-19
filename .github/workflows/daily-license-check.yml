@@ -1,0 +1,190 @@
+name: Daily License Check & Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'LICENSE*'
+      - '.github/workflows/daily-license-check.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-licenses:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    env:
+      GH_TOKEN: ${{ secrets.PAT_ACCOUNT_TOKEN }}
+      
+    steps:
+      - name: Checkout organization repo
+        uses: actions/checkout@v4
+        
+      - name: Setup Git
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+      - name: Setup GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt-get update
+          sudo apt-get install -y gh
+          
+      - name: Find organization license
+        id: find_license
+        run: |
+          echo "🔍 Looking for license file..."
+          
+          for file in LICENSE LICENSE.md LICENSE.txt; do
+            if [ -f "$file" ]; then
+              ORG_LICENSE_FILE="$file"
+              ORG_LICENSE=$(cat "$file")
+              echo "ORG_LICENSE_FILE=$file" >> $GITHUB_OUTPUT
+              echo "ORG_LICENSE_PATH=$PWD/$file" >> $GITHUB_OUTPUT
+              echo "✅ Found license file: $file"
+              break
+            fi
+          done
+          
+          if [ -z "$ORG_LICENSE" ]; then
+            echo "❌ No license file found"
+            exit 1
+          fi
+          
+          ORG_LICENSE_HASH=$(echo "$ORG_LICENSE" | sha256sum | awk '{print $1}')
+          echo "ORG_LICENSE_HASH=$ORG_LICENSE_HASH" >> $GITHUB_OUTPUT
+          
+      - name: Process ALL public repositories
+        env:
+          ORG: ${{ github.repository_owner }}
+          ORG_LICENSE_PATH: ${{ steps.find_license.outputs.ORG_LICENSE_PATH }}
+          ORG_LICENSE_FILE: ${{ steps.find_license.outputs.ORG_LICENSE_FILE }}
+          ORG_LICENSE_HASH: ${{ steps.find_license.outputs.ORG_LICENSE_HASH }}
+        run: |
+          echo "🏢 Organization: $ORG"
+          echo "📄 License: $ORG_LICENSE_FILE"
+          echo "🔑 Hash: $ORG_LICENSE_HASH"
+          echo ""
+          echo "🚀 START PROCESSING ALL PUBLIC REPOSITORIES"
+          echo "==========================================="
+          
+          # Функция обработки репозитория
+          process_repo() {
+            local repo_full="$1"
+            local is_fork="$2"
+            local is_archived="$3"
+            
+            echo ""
+            echo "🔍 Processing: $repo_full"
+            
+            # Проверяем форк
+            if [ "$is_fork" = "true" ]; then
+              echo "   🍴 Форк - пропускаем"
+              return 0
+            fi
+            
+            # Проверяем архивный
+            if [ "$is_archived" = "true" ]; then
+              echo "   📦 Архивный - пропускаем"
+              return 0
+            fi
+            
+            # Клонируем репозиторий
+            git clone --depth 1 "https://x-access-token:$GH_TOKEN@github.com/$repo_full.git" /tmp/current_repo
+            
+            cd /tmp/current_repo
+            
+            # Ищем существующую лицензию
+            CURRENT_LICENSE=""
+            CURRENT_HASH=""
+            
+            for lic_file in $ORG_LICENSE_FILE LICENSE LICENSE.md LICENSE.txt COPYING; do
+              if [ -f "$lic_file" ]; then
+                CURRENT_LICENSE="$lic_file"
+                CURRENT_HASH=$(sha256sum "$lic_file" | awk '{print $1}')
+                break
+              fi
+            done
+            
+            if [ -n "$CURRENT_LICENSE" ]; then
+              # Сравниваем хэши
+              if [ "$CURRENT_HASH" = "$ORG_LICENSE_HASH" ]; then
+                echo "   ✅ $CURRENT_LICENSE - НЕ ИЗМЕНЯЕТСЯ"
+              else
+                echo "   🔄 $CURRENT_LICENSE -> $ORG_LICENSE_FILE - ОБНОВЛЯЕМ"
+                
+                # Обновляем лицензию
+                cp "$ORG_LICENSE_PATH" "./$ORG_LICENSE_FILE"
+                
+                # Удаляем старый файл если название отличается
+                if [ "$CURRENT_LICENSE" != "$ORG_LICENSE_FILE" ]; then
+                  rm -f "$CURRENT_LICENSE"
+                fi
+                
+                # Коммитим изменения
+                git add "$ORG_LICENSE_FILE"
+                git commit -m "docs: update license to organization template"
+                
+                # Пуш изменений
+                echo "   📤 Загружаем изменения..."
+                git push origin HEAD
+              fi
+            else
+              # Лицензии нет - добавляем
+              echo "   📝 Нет лицензии - ДОБАВЛЯЕМ"
+              
+              cp "$ORG_LICENSE_PATH" "./$ORG_LICENSE_FILE"
+              git add "$ORG_LICENSE_FILE"
+              git commit -m "docs: add $ORG_LICENSE_FILE from organization template"
+              
+              # Пуш изменений
+              echo "   📤 Загружаем изменения..."
+              git push origin HEAD
+            fi
+            
+            # Очистка
+            cd /
+            rm -rf /tmp/current_repo
+          }
+          
+          # Получаем и обрабатываем ВСЕ репозитории
+          PAGE=1
+          
+          while true; do
+            echo ""
+            echo "📄 Обрабатываем страницу $PAGE..."
+            
+            # Получаем репозитории с информацией о форках и архивах
+            repos_json=$(gh api \
+              --method GET \
+              -H "Accept: application/vnd.github.v3+json" \
+              "/orgs/$ORG/repos?type=public&per_page=100&page=$PAGE")
+            
+            # Проверяем, есть ли еще репозитории
+            if [ -z "$repos_json" ] || [ "$repos_json" = "[]" ]; then
+              echo "✅ Все репозитории обработаны"
+              break
+            fi
+            
+            # Обрабатываем каждый репозиторий
+            echo "$repos_json" | jq -r '.[] | "\(.full_name) \(.fork) \(.archived)"' | while read -r repo_info; do
+              repo_full=$(echo "$repo_info" | awk '{print $1}')
+              is_fork=$(echo "$repo_info" | awk '{print $2}')
+              is_archived=$(echo "$repo_info" | awk '{print $3}')
+              
+              process_repo "$repo_full" "$is_fork" "$is_archived"
+            done
+            
+            PAGE=$((PAGE + 1))
+          done
