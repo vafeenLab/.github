@@ -35,7 +35,7 @@
 
 
 
->Updated **20.12.2025** в **04:53:00** MSK
+>Updated **21.12.2025** в **05:06:13** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -103,8 +103,6 @@ Reading log по Английскому 4 семестр [[open]](https://github
 Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester) 
 
 Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
-
-Демонстрация курсовой работы 6 семестр  [[open]](https://github.com/vafeenHub/demo-coursework_6-semester) 
 
 Компьютерная графика 6 семестр: 2d Самолет с текстурами  [[open]](https://github.com/vafeenHub/computer-graphics-plane_6-semester) 
 
