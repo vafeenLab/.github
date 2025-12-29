@@ -35,7 +35,7 @@
 
 
 
->Updated **28.12.2025** в **05:11:35** MSK
+>Updated **29.12.2025** в **05:09:39** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -213,6 +213,8 @@ Scripts .sh for installing Linux programs [[open]](https://github.com/vafeenHub/
 Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-ai-chat) 
 
 StudyMeet MVP Android app with webview [[open]](https://github.com/vafeenHub/StudyMeetWebViewMVP) 
+
+android-studio settings [[open]](https://github.com/vafeenHub/android-studio-settings) 
 
 Автоматическое обновление списка репозиториев в профиле организации [[open]](https://github.com/vafeenHub/update-repos) 
 
