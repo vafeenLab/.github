@@ -35,7 +35,7 @@
 
 
 
->Updated **12.01.2026** в **05:09:06** MSK
+>Updated **13.01.2026** в **01:14:30** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -197,6 +197,8 @@ Git config  [[open]](https://github.com/vafeenHub/gitconfig)
 Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++) [[open]](https://github.com/vafeenHub/cpp-py-gitpusher) 
 
 Github workflows [[open]](https://github.com/vafeenHub/workflows) 
+
+Learn2Invest with Dagger2 [[open]](https://github.com/vafeenHub/learn2invest-dagger2) 
 
 Microsoft-Office-LTS-Professional-Plus-2021  [[open]](https://github.com/vafeenHub/Microsoft-Office-LTS-Professional-Plus-2021) 
 
