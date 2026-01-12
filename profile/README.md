@@ -35,7 +35,7 @@
 
 
 
->Updated **11.01.2026** в **05:13:33** MSK
+>Updated **12.01.2026** в **05:09:06** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -215,8 +215,6 @@ Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-
 StudyMeet MVP Android app with webview [[open]](https://github.com/vafeenHub/StudyMeetWebViewMVP) 
 
 android-studio settings [[open]](https://github.com/vafeenHub/android-studio-settings) 
-
-dagger2-multimodule-example [[open]](https://github.com/vafeenHub/dagger2-multimodule-example) 
 
 Автоматическое обновление списка репозиториев в профиле организации [[open]](https://github.com/vafeenHub/update-repos) 
 
