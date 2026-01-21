@@ -35,7 +35,7 @@
 
 
 
->Updated **20.01.2026** в **05:04:52** MSK
+>Updated **21.01.2026** в **05:07:23** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -179,6 +179,8 @@ Android App with Firebase cloud messaging and backend on Kotlin example [[open]]
 Articles [[open]](https://github.com/vafeenHub/articles-but-not-from-Arctic) 
 
 CodeSnippets [[open]](https://github.com/vafeenHub/code-snippets) 
+
+DaggerAndroidSampleApp [[open]](https://github.com/vafeenHub/DaggerAndroidSampleApp) 
 
 DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer) 
 
