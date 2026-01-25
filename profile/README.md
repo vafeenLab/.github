@@ -35,7 +35,7 @@
 
 
 
->Updated **25.01.2026** в **05:21:37** MSK
+>Updated **25.01.2026** в **19:20:50** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -144,6 +144,10 @@ Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenH
 <summary>Semester: 7</summary>
 
 Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
+
+Simple gallery "Catlery" on swift [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
+
+Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
 
 Информационная безопасность 7 семестр [[open]](https://github.com/vafeenHub/information-security_7-semester) 
 
