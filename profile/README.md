@@ -35,7 +35,7 @@
 
 
 
->Updated **26.01.2026** в **05:21:07** MSK
+>Updated **26.01.2026** в **19:04:25** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -102,8 +102,6 @@ Reading log по Английскому 4 семестр [[open]](https://github
 
 Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester) 
 
-Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
-
 Компьютерная графика 6 семестр: 2d Самолет с текстурами  [[open]](https://github.com/vafeenHub/computer-graphics-plane_6-semester) 
 
 Компьютерная графика 6 семестр: 3d гитара без фона [[open]](https://github.com/vafeenHub/computer-graphics-guitar-without-background_6-semester) 
@@ -124,6 +122,8 @@ Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenH
 
 Курсовая работа 6 семестр [[open]](https://github.com/vafeenHub/Coursework_6-semester) 
 
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
+
 Объектно-ориентированный анализ и проектирование 6 семестр [[open]](https://github.com/vafeenHub/object-oriented-analysis-and-design_6-semester) 
 
 Основы научно-исследовательской деятельности 6 семестр [[open]](https://github.com/vafeenHub/fundamentals-of-scientific-research-activities_6-semester) 
@@ -143,8 +143,6 @@ Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenH
 <details>
 <summary>Semester: 7</summary>
 
-Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
-
 Simple gallery "Catlery" on swift [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
 
 Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
@@ -152,6 +150,8 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 Информационная безопасность 7 семестр [[open]](https://github.com/vafeenHub/information-security_7-semester) 
 
 Методы компиляции 7 семестр  [[open]](https://github.com/vafeenHub/compilation-methods_7-semester) 
+
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
 
 Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/vafeenHub/relational-databases_7-semester) 
 
@@ -164,7 +164,7 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 <details>
 <summary>Semester: 8</summary>
 
-Scientific activities in VSU 6 7 8 semesters [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
 
 </details>
 
@@ -239,8 +239,6 @@ android-studio settings [[open]](https://github.com/vafeenHub/android-studio-set
 Набор файлов для vscode для работы с С++ на Linux [[open]](https://github.com/vafeenHub/vscode-for-cpp-linux) 
 
 Набор файлов для vscode для работы с С++ на Windows [[open]](https://github.com/vafeenHub/vscode-for-cpp-windows) 
-
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities-template) 
 
 Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление) [[open]](https://github.com/vafeenHub/cpp-sandbox-matrix-calculator) 
 
