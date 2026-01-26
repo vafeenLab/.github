@@ -35,7 +35,7 @@
 
 
 
->Updated **25.01.2026** в **19:20:50** MSK
+>Updated **26.01.2026** в **05:21:07** MSK
 
 <details>
 <summary>Semester: 2</summary>
