@@ -35,7 +35,7 @@
 
 
 
->Updated **30.01.2026** в **05:29:10** MSK
+>Updated **31.01.2026** в **05:24:32** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -179,6 +179,8 @@ test 1mag semester [[open]](https://github.com/vafeenHub/test_1mag-semester)
 <summary>others</summary>
 
 Android App with Firebase cloud messaging and backend on Kotlin example [[open]](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example) 
+
+Android app with dagger2 with feature modules and deps [[open]](https://github.com/vafeenHub/Dagger2-feature-modules-example) 
 
 Articles [[open]](https://github.com/vafeenHub/articles-but-not-from-Arctic) 
 
