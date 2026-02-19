@@ -35,7 +35,7 @@
 
 
 
->Updated **18.02.2026** в **05:37:37** MSK
+>Updated **19.02.2026** в **05:37:25** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -122,7 +122,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 
 Курсовая работа 6 семестр [[open]](https://github.com/vafeenHub/Coursework_6-semester) 
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 Объектно-ориентированный анализ и проектирование 6 семестр [[open]](https://github.com/vafeenHub/object-oriented-analysis-and-design_6-semester) 
 
@@ -151,7 +151,7 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 
 Методы компиляции 7 семестр  [[open]](https://github.com/vafeenHub/compilation-methods_7-semester) 
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/vafeenHub/relational-databases_7-semester) 
 
@@ -164,7 +164,7 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 <details>
 <summary>Semester: 8</summary>
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/vafeenHub-VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 </details>
 
