@@ -35,10 +35,19 @@
 
 
 
->Updated **28.02.2026** в **23:59:27** MSK
+>Updated **01.03.2026** в **00:02:43** MSK
+
+<details>
+<summary>Semester: 1</summary>
+
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+</details>
 
 <details>
 <summary>Semester: 2</summary>
+
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
 
 Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide_2-semester) 
 
@@ -55,6 +64,8 @@ Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide_2-
 <details>
 <summary>Semester: 3</summary>
 
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
 Объектно-ориентированное программирование 3 семестр [[open]](https://github.com/vafeenHub/OOP_3-semester) 
 
 Структуры данных и алгоритмы 3 и 4 семестр [[open]](https://github.com/vafeenHub/data-structures-and-algorithms_3-4-semester) 
@@ -65,6 +76,8 @@ Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide_2-
 
 <details>
 <summary>Semester: 4</summary>
+
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
 
 Reading log по Английскому 4 семестр [[open]](https://github.com/vafeenHub/english-reading-log_4-semester) 
 
@@ -82,6 +95,10 @@ Reading log по Английскому 4 семестр [[open]](https://github
 
 <details>
 <summary>Semester: 5</summary>
+
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+DevContainer Python development [[open]](https://github.com/vafeenHub/python-devcontainer_5-semester) 
 
 Архитектуры мобильных систем 5 семестр [[open]](https://github.com/vafeenHub/mobile-device-architectures_5-semester) 
 
@@ -105,6 +122,8 @@ Reading log по Английскому 4 семестр [[open]](https://github
 
 <details>
 <summary>Semester: 6</summary>
+
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
 
 Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester) 
 
@@ -149,6 +168,10 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 <details>
 <summary>Semester: 7</summary>
 
+DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+DevContainer Haskell development [[open]](https://github.com/vafeenHub/haskell-devcontainer_7-semester) 
+
 Simple gallery "Catlery" on swift 7 semester [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
 
 Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
@@ -184,13 +207,7 @@ test 1mag semester [[open]](https://github.com/vafeenHub/test_1mag-semester)
 <details>
 <summary>others</summary>
 
-DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer) 
-
-DevContainer Haskell development [[open]](https://github.com/vafeenHub/haskell-devcontainer) 
-
 DevContainer Latex Development [[open]](https://github.com/vafeenHub/latex-devcontainer) 
-
-DevContainer Python development [[open]](https://github.com/vafeenHub/python-devcontainer) 
 
 DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/vafeenHub/ubuntu-devcontainer) 
 
