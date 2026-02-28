@@ -35,7 +35,7 @@
 
 
 
->Updated **28.02.2026** в **23:17:41** MSK
+>Updated **28.02.2026** в **23:59:27** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -44,7 +44,11 @@ Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide_2-
 
 Информатика и программирование 2 семестр: Курсовая [[open]](https://github.com/vafeenHub/computer-science-and-programming_2-semester) 
 
+Консольный бой покемонов 3 на 3 на С++ [[open]](https://github.com/vafeenHub/cpp-pockemon-fights_2-semester) 
+
 Пакеты прикладных программ 2 семестр [[open]](https://github.com/vafeenHub/application-software-packages_2-semester) 
+
+Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление) [[open]](https://github.com/vafeenHub/cpp-sandbox-matrix-calculator_2-semester) 
 
 </details>
 
@@ -89,7 +93,7 @@ Reading log по Английскому 4 семестр [[open]](https://github
 
 Математические основы компьютерной графики 5 семестр [[open]](https://github.com/vafeenHub/mathematical-foundations-of-computer-graphics_5-semester) 
 
-Параллельное программирование 5 семестр [[open]](https://github.com/vafeenHub/parallel-programming_5-semester) 
+Параллельное программирование 5 семестр [[open]](https://github.com/vafeenHub/async-programming_5-semester) 
 
 Программирование на C# 5 семестр [[open]](https://github.com/vafeenHub/c-sharp_5-semester) 
 
@@ -206,8 +210,6 @@ Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-
 
 Консольная программа на C++ для создания N .txt файлов в текущей папке [[open]](https://github.com/vafeenHub/cpp-file-creator) 
 
-Консольный бой покемонов 3 на 3 на С++ [[open]](https://github.com/vafeenHub/cpp-pockemon-fights) 
-
 Ленивый Git: скрипт для пуша всех файлов из индекса с текущим DateTime и скрипт с аргументом в качестве commit message [[open]](https://github.com/vafeenHub/linux-git-pusher) 
 
 Методы для работы с матрицами на С++ (умножение, транспонирование) [[open]](https://github.com/vafeenHub/cpp-methods-for-matrix) 
@@ -215,8 +217,6 @@ Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-
 Набор файлов для vscode для работы с С++ на Linux [[open]](https://github.com/vafeenHub/vscode-for-cpp-linux) 
 
 Набор файлов для vscode для работы с С++ на Windows [[open]](https://github.com/vafeenHub/vscode-for-cpp-windows) 
-
-Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление) [[open]](https://github.com/vafeenHub/cpp-sandbox-matrix-calculator) 
 
 Программа для создания спиральной матрицы N*N на C++ [[open]](https://github.com/vafeenHub/cpp-spiral) 
 
