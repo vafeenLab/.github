@@ -35,10 +35,12 @@
 
 
 
->Updated **28.02.2026** в **05:20:12** MSK
+>Updated **28.02.2026** в **23:12:35** MSK
 
 <details>
 <summary>Semester: 2</summary>
+
+Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide_2-semester) 
 
 Информатика и программирование 2 семестр: Курсовая [[open]](https://github.com/vafeenHub/computer-science-and-programming_2-semester) 
 
@@ -178,16 +180,6 @@ test 1mag semester [[open]](https://github.com/vafeenHub/test_1mag-semester)
 <details>
 <summary>others</summary>
 
-Android App with Firebase cloud messaging and backend on Kotlin example [[open]](https://github.com/vafeenHub/Android-FCM-with-Kotlin-Backend-example) 
-
-Android app with dagger2 with feature modules and deps [[open]](https://github.com/vafeenHub/Dagger2-feature-modules-example) 
-
-Articles [[open]](https://github.com/vafeenHub/articles-but-not-from-Arctic) 
-
-CodeSnippets [[open]](https://github.com/vafeenHub/code-snippets) 
-
-DaggerAndroidSampleApp [[open]](https://github.com/vafeenHub/DaggerAndroidSampleApp) 
-
 DevContainer C++ development [[open]](https://github.com/vafeenHub/cpp-devcontainer) 
 
 DevContainer Haskell development [[open]](https://github.com/vafeenHub/haskell-devcontainer) 
@@ -198,19 +190,11 @@ DevContainer Python development [[open]](https://github.com/vafeenHub/python-dev
 
 DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/vafeenHub/ubuntu-devcontainer) 
 
-FAQ [[open]](https://github.com/vafeenHub/FAQ) 
-
 Git config  [[open]](https://github.com/vafeenHub/gitconfig) 
 
 Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++) [[open]](https://github.com/vafeenHub/cpp-py-gitpusher) 
 
-Github workflows [[open]](https://github.com/vafeenHub/workflows) 
-
-Learn2Invest with Dagger2 [[open]](https://github.com/vafeenHub/learn2invest-dagger2) 
-
 Microsoft-Office-LTS-Professional-Plus-2021  [[open]](https://github.com/vafeenHub/Microsoft-Office-LTS-Professional-Plus-2021) 
-
-Moscow-Travel-Guide [[open]](https://github.com/vafeenHub/Moscow-Travel-Guide) 
 
 Niapoll's phrases as the meaning of life app [[open]](https://github.com/vafeenHub/niapolls-phrases-as-the-meaning-of-life) 
 
@@ -218,13 +202,7 @@ Report about sha-256 on Google I/O 2025 conference [[open]](https://github.com/v
 
 Scripts .cmd for installing windows programs, adding some apps such as Git, CMD, Intellij IDEA, Android Studio, VSCode to context file manager menu  [[open]](https://github.com/vafeenHub/cmd-install) 
 
-Scripts .sh for installing Linux programs [[open]](https://github.com/vafeenHub/installsh) 
-
 Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-ai-chat) 
-
-StudyMeet MVP Android app with webview [[open]](https://github.com/vafeenHub/StudyMeetWebViewMVP) 
-
-android-studio settings [[open]](https://github.com/vafeenHub/android-studio-settings) 
 
 Автоматическое обновление списка репозиториев в профиле организации [[open]](https://github.com/vafeenHub/update-repos) 
 
@@ -254,13 +232,9 @@ android-studio settings [[open]](https://github.com/vafeenHub/android-studio-set
 
 Система регистрации пользователей на С++ с профилем админа [[open]](https://github.com/vafeenHub/cpp-registratrion-system) 
 
-Тренировочное синхронное Flow на Kotlin [[open]](https://github.com/vafeenHub/SynchronousFlowKt) 
-
 Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др [[open]](https://github.com/vafeenHub/cpp-windows-tools) 
 
 Файлы для изменения имени в коммитах по дереву репозитория [[open]](https://github.com/vafeenHub/updating-name-in-commits) 
-
-Telegram messenger for Android [[open]](https://github.com/vafeenHub/Telegram) 
 
 </details>
 
