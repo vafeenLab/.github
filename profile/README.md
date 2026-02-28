@@ -35,7 +35,7 @@
 
 
 
->Updated **28.02.2026** в **23:14:24** MSK
+>Updated **28.02.2026** в **23:16:34** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -145,7 +145,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 <details>
 <summary>Semester: 7</summary>
 
-Simple gallery "Catlery" on swift 7 semester [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
+Simple gallery "Catlery" on swift [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
 
 Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
 
@@ -190,13 +190,9 @@ DevContainer Python development [[open]](https://github.com/vafeenHub/python-dev
 
 DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/vafeenHub/ubuntu-devcontainer) 
 
-Git config  [[open]](https://github.com/vafeenHub/gitconfig) 
-
 Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++) [[open]](https://github.com/vafeenHub/cpp-py-gitpusher) 
 
 Microsoft-Office-LTS-Professional-Plus-2021  [[open]](https://github.com/vafeenHub/Microsoft-Office-LTS-Professional-Plus-2021) 
-
-Niapoll's phrases as the meaning of life app [[open]](https://github.com/vafeenHub/niapolls-phrases-as-the-meaning-of-life) 
 
 Report about sha-256 on Google I/O 2025 conference [[open]](https://github.com/vafeenHub/SHA256-report-for-Google-IO-2025) 
 
