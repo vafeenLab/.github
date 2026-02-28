@@ -35,7 +35,7 @@
 
 
 
->Updated **28.02.2026** в **23:12:35** MSK
+>Updated **28.02.2026** в **23:14:24** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -145,7 +145,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 <details>
 <summary>Semester: 7</summary>
 
-Simple gallery "Catlery" on swift [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
+Simple gallery "Catlery" on swift 7 semester [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
 
 Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
 
