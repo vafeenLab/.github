@@ -35,7 +35,7 @@
 
 
 
->Updated **28.02.2026** в **23:16:34** MSK
+>Updated **28.02.2026** в **23:17:41** MSK
 
 <details>
 <summary>Semester: 2</summary>
@@ -145,7 +145,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 <details>
 <summary>Semester: 7</summary>
 
-Simple gallery "Catlery" on swift [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
+Simple gallery "Catlery" on swift 7 semester [[open]](https://github.com/vafeenHub/Catlery-swift_7-semester) 
 
 Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swift_7-semester) 
 
@@ -217,8 +217,6 @@ Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-
 Набор файлов для vscode для работы с С++ на Windows [[open]](https://github.com/vafeenHub/vscode-for-cpp-windows) 
 
 Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление) [[open]](https://github.com/vafeenHub/cpp-sandbox-matrix-calculator) 
-
-Потокобезопасный пулл потоков на Kotlin, параллельно выполняющий последовательно поступающие задачи [[open]](https://github.com/vafeenHub/kotlin-threads) 
 
 Программа для создания спиральной матрицы N*N на C++ [[open]](https://github.com/vafeenHub/cpp-spiral) 
 
