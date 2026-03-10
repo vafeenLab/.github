@@ -35,7 +35,7 @@
 
 
 
->Updated **09.03.2026** в **05:36:05** MSK
+>Updated **10.03.2026** в **05:27:47** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -157,7 +157,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 
 Отчет по летней практике 6 семестр [[open]](https://github.com/vafeenHub/summer-practice_6-semester) 
 
-Программирование встроенных систем 6 семестр [[open]](https://github.com/vafeenHub/embedded-System-programming_6-semester) 
+Программирование встроенных систем 6 семестр [[open]](https://github.com/vafeenHub/embedded-system-programming_6-semester) 
 
 Проектирование информационных систем 6 семестр [[open]](https://github.com/vafeenHub/information-systems-design_6-semester) 
 
