@@ -35,7 +35,7 @@
 
 
 
->Updated **10.03.2026** в **05:27:47** MSK
+>Updated **11.03.2026** в **05:27:29** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -145,7 +145,7 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 
 Компьютерная графика 6 семестр: улитка 3d  [[open]](https://github.com/vafeenHub/computer-graphics-snail_6-semester) 
 
-Курсовая работа 6 семестр [[open]](https://github.com/vafeenHub/Coursework_6-semester) 
+Курсовая работа 6 семестр [[open]](https://github.com/vafeenHub/coursework_6-semester) 
 
 Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
