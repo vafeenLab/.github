@@ -35,7 +35,7 @@
 
 
 
->Updated **11.03.2026** в **05:27:29** MSK
+>Updated **12.03.2026** в **05:33:15** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -147,13 +147,15 @@ Java 6 семестр  [[open]](https://github.com/vafeenHub/java_6-semester)
 
 Курсовая работа 6 семестр [[open]](https://github.com/vafeenHub/coursework_6-semester) 
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 Объектно-ориентированный анализ и проектирование 6 семестр [[open]](https://github.com/vafeenHub/object-oriented-analysis-and-design_6-semester) 
 
 Основы научно-исследовательской деятельности 6 семестр [[open]](https://github.com/vafeenHub/fundamentals-of-scientific-research-activities_6-semester) 
 
 Основы облачных вычислений 6 семестр [[open]](https://github.com/vafeenHub/cloud-computing-basics_6-semester) 
+
+Отчет по курсовой работе 6 семестр [[open]](https://github.com/vafeenHub/coursework-report_6-semester) 
 
 Отчет по летней практике 6 семестр [[open]](https://github.com/vafeenHub/summer-practice_6-semester) 
 
@@ -180,7 +182,7 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 
 Методы компиляции 7 семестр  [[open]](https://github.com/vafeenHub/compilation-methods_7-semester) 
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/vafeenHub/relational-databases_7-semester) 
 
@@ -193,7 +195,7 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenHub/Tetris-swi
 <details>
 <summary>Semester: 8</summary>
 
-Научно-исследовательская работа [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenHub/VSU-scientific-activities_6-7-8-semester) 
 
 </details>
 
