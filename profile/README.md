@@ -35,7 +35,7 @@
 
 
 
->Updated **21.03.2026** в **05:26:06** MSK
+>Updated **21.03.2026** в **13:05:40** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -240,6 +240,8 @@ Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenHub/simple-web-
 Программа для создания спиральной матрицы N*N на C++ [[open]](https://github.com/vafeenHub/cpp-spiral) 
 
 Программа для создания спиральной матрицы N*N на Python [[open]](https://github.com/vafeenHub/py-spiral) 
+
+Программирование Web-приложений 8 семестр [[open]](https://github.com/vafeenHub/vue-3-docker-compose) 
 
 Проект для конвертации PDF<->DOCX и соединения PDF файлов [[open]](https://github.com/vafeenHub/python-pdf-helpers) 
 
