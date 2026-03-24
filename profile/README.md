@@ -35,7 +35,7 @@
 
 
 
->Updated **23.03.2026** в **11:14:46** MSK
+>Updated **24.03.2026** в **05:32:55** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -219,11 +219,7 @@ Git pusher - программа для быстрого пуша индекса 
 
 Microsoft-Office-LTS-Professional-Plus-2021  [[open]](https://github.com/vafeenLab/Microsoft-Office-LTS-Professional-Plus-2021) 
 
-Report about sha-256 on Google I/O 2025 conference [[open]](https://github.com/vafeenLab/SHA256-report-for-Google-IO-2025) 
-
 Scripts .cmd for installing windows programs, adding some apps such as Git, CMD, Intellij IDEA, Android Studio, VSCode to context file manager menu  [[open]](https://github.com/vafeenLab/cmd-install) 
-
-Simple Web-AI chat HTML/CSS/JS [[open]](https://github.com/vafeenLab/simple-web-ai-chat) 
 
 Автоматическое обновление списка репозиториев в профиле организации [[open]](https://github.com/vafeenLab/update-repos) 
 
