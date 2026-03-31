@@ -35,7 +35,7 @@
 
 
 
->Updated **31.03.2026** в **09:59:34** MSK
+>Updated **31.03.2026** в **10:03:10** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -198,6 +198,8 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenLab/VSU-scientific-activities_6-7-8-semester) 
 
 Программирование Web-приложений 8 семестр [[open]](https://github.com/vafeenLab/vue-3-docker-compose_8-semester) 
+
+Психология личности и ее саморазвития 8 семестр [[open]](https://github.com/vafeenLab/psychology-of-personality-and-its-self-development_8-semester) 
 
 </details>
 
