@@ -35,7 +35,7 @@
 
 
 
->Updated **03.04.2026** в **05:45:53** MSK
+>Updated **03.04.2026** в **15:35:07** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -204,13 +204,6 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 </details>
 
 <details>
-<summary>Semester: 1mag</summary>
-
-test 1mag semester [[open]](https://github.com/vafeenLab/test_1mag-semester) 
-
-</details>
-
-<details>
 <summary>others</summary>
 
 DevContainer Latex Development [[open]](https://github.com/vafeenLab/latex-devcontainer) 
@@ -248,6 +241,13 @@ Scripts .cmd for installing windows programs, adding some apps such as Git, CMD,
 Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др [[open]](https://github.com/vafeenLab/cpp-windows-tools) 
 
 Файлы для изменения имени в коммитах по дереву репозитория [[open]](https://github.com/vafeenLab/updating-name-in-commits) 
+
+</details>
+
+<details>
+<summary>Semester: test</summary>
+
+test test semester [[open]](https://github.com/vafeenLab/test-project_test-semester) 
 
 </details>
 
