@@ -35,7 +35,7 @@
 
 
 
->Updated **16.04.2026** в **06:21:45** MSK
+>Updated **16.04.2026** в **12:16:54** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -204,9 +204,14 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 </details>
 
 <details>
-<summary>others</summary>
+<summary>Semester: test</summary>
 
-DevContainer Latex Development [[open]](https://github.com/vafeenLab/latex-devcontainer) 
+test test semester [[open]](https://github.com/vafeenLab/test-project_test-semester) 
+
+</details>
+
+<details>
+<summary>others</summary>DevContainer Latex Development [[open]](https://github.com/vafeenLab/latex-devcontainer) 
 
 DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/vafeenLab/ubuntu-devcontainer) 
 
@@ -243,11 +248,3 @@ Scripts .cmd for installing windows programs, adding some apps such as Git, CMD,
 Файлы для изменения имени в коммитах по дереву репозитория [[open]](https://github.com/vafeenLab/updating-name-in-commits) 
 
 </details>
-
-<details>
-<summary>Semester: test</summary>
-
-test test semester [[open]](https://github.com/vafeenLab/test-project_test-semester) 
-
-</details>
-
