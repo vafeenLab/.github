@@ -35,7 +35,7 @@
 
 
 
->Updated **24.04.2026** в **06:21:34** MSK
+>Updated **24.04.2026** в **14:02:29** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -211,7 +211,9 @@ test test semester [[open]](https://github.com/vafeenLab/test-project_test-semes
 </details>
 
 <details>
-<summary>others</summary>DevContainer Latex Development [[open]](https://github.com/vafeenLab/latex-devcontainer) 
+<summary>others</summary>
+
+DevContainer Latex Development [[open]](https://github.com/vafeenLab/latex-devcontainer) 
 
 DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/vafeenLab/ubuntu-devcontainer) 
 
