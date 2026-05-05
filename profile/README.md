@@ -35,7 +35,7 @@
 
 
 
->Updated **04.05.2026** в **06:38:54** MSK
+>Updated **05.05.2026** в **09:57:24** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -227,8 +227,6 @@ Scripts .cmd for installing windows programs, adding some apps such as Git, CMD,
 
 Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК [[open]](https://github.com/vafeenLab/cpp-virus-filecreator) 
 
-Консольная программа на C++ для создания N .txt файлов в текущей папке [[open]](https://github.com/vafeenLab/cpp-file-creator) 
-
 Ленивый Git: скрипт для пуша всех файлов из индекса с текущим DateTime и скрипт с аргументом в качестве commit message [[open]](https://github.com/vafeenLab/linux-git-pusher) 
 
 Методы для работы с матрицами на С++ (умножение, транспонирование) [[open]](https://github.com/vafeenLab/cpp-methods-for-matrix) 
@@ -242,8 +240,6 @@ Scripts .cmd for installing windows programs, adding some apps such as Git, CMD,
 Программа для создания спиральной матрицы N*N на Python [[open]](https://github.com/vafeenLab/py-spiral) 
 
 Проект для конвертации PDF<->DOCX и соединения PDF файлов [[open]](https://github.com/vafeenLab/python-pdf-helpers) 
-
-Система регистрации пользователей на С++ с профилем админа [[open]](https://github.com/vafeenLab/cpp-registratrion-system) 
 
 Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др [[open]](https://github.com/vafeenLab/cpp-windows-tools) 
 
