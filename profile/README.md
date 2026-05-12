@@ -35,7 +35,7 @@
 
 
 
->Updated **11.05.2026** в **06:56:38** MSK
+>Updated **12.05.2026** в **06:39:31** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -147,8 +147,6 @@ Java 6 семестр  [[open]](https://github.com/vafeenLab/java_6-semester)
 
 Курсовая работа 6 семестр [[open]](https://github.com/vafeenLab/coursework_6-semester) 
 
-Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenLab/VSU-scientific-activities_6-7-8-semester) 
-
 Объектно-ориентированный анализ и проектирование 6 семестр [[open]](https://github.com/vafeenLab/object-oriented-analysis-and-design_6-semester) 
 
 Основы научно-исследовательской деятельности 6 семестр [[open]](https://github.com/vafeenLab/fundamentals-of-scientific-research-activities_6-semester) 
@@ -182,8 +180,6 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 
 Методы компиляции 7 семестр  [[open]](https://github.com/vafeenLab/compilation-methods_7-semester) 
 
-Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenLab/VSU-scientific-activities_6-7-8-semester) 
-
 Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/vafeenLab/relational-databases_7-semester) 
 
 Философия 7 семестр [[open]](https://github.com/vafeenLab/philosophy_7-semester) 
@@ -194,8 +190,6 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 
 <details>
 <summary>Semester: 8</summary>
-
-Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenLab/VSU-scientific-activities_6-7-8-semester) 
 
 Программирование Web-приложений 8 семестр [[open]](https://github.com/vafeenLab/vue-3-tetris_8-semester) 
 
@@ -234,6 +228,8 @@ Scripts .cmd for installing windows programs, adding some apps such as Git, CMD,
 Набор файлов для vscode для работы с С++ на Linux [[open]](https://github.com/vafeenLab/vscode-for-cpp-linux) 
 
 Набор файлов для vscode для работы с С++ на Windows [[open]](https://github.com/vafeenLab/vscode-for-cpp-windows) 
+
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/vafeenLab/VSU-scientific-activities) 
 
 Программа для создания спиральной матрицы N*N на C++ [[open]](https://github.com/vafeenLab/cpp-spiral) 
 
