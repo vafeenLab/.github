@@ -35,7 +35,7 @@
 
 
 
->Updated **01.06.2026** в **11:40:23** MSK
+>Updated **02.06.2026** в **07:23:06** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -190,6 +190,8 @@ Tetris game on swift 7 semester [[open]](https://github.com/vafeenLab/Tetris-swi
 
 <details>
 <summary>Semester: 8</summary>
+
+Алгоритмы в биоинформатике 8 семестр [[open]](https://github.com/vafeenLab/algorithms-in-bioinformatics_8-semester) 
 
 Программирование Web-приложений 8 семестр [[open]](https://github.com/vafeenLab/vue-3-tetris_8-semester) 
 
